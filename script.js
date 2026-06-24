@@ -217,7 +217,6 @@
     const parentsHTML = `
       <div class="parent-row">
         ${parentLine(g.father, g.mother, g.fatherDeceased, g.motherDeceased)}
-        <span class="parent-dot"></span>
         의 아들 <span class="child-name">${g.name}</span>
       </div>
       <div class="parent-row">
